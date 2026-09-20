@@ -1,0 +1,12 @@
+node_modules/
+site/node_modules/
+site/dist/
+dist/
+.cache/
+.vite/
+npm-debug.log*
+.env
+.DS_Store
+# Ignore generated site and large assets not required in repo working tree
+docs/
+drafts/
